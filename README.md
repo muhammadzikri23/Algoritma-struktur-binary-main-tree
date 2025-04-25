@@ -1,8 +1,8 @@
-File main.jav
+File Main.Jav
 
 
 
-
+```java
 package tree1b;
 
 public class Main {
@@ -61,3 +61,4 @@ public class Main {
         bst.postorder();     // 60 80 70 40
     }
 }
+```
